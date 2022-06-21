@@ -1,0 +1,6 @@
+Line one has been added.
+<<<<<<< HEAD
+This is latest text for rebace
+=======
+Line 2 added
+>>>>>>> 01bd15b (line 2 in file1)
