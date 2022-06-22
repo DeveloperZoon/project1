@@ -1,5 +1,4 @@
 Line one has been added.
-Line 2 added
 Line 1
 Line 2 
 
